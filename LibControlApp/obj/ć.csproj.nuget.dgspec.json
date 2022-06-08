@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GF2AKZH\\Desktop\\shit\\Library_software-main\\LibControlApp\\LibControlApp.csproj": {}
+    "C:\\Users\\GF2AKZH\\Desktop\\shit\\Library_software-main\\LibControlApp\\ć.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GF2AKZH\\Desktop\\shit\\Library_software-main\\LibControlApp\\LibControlApp.csproj": {
+    "C:\\Users\\GF2AKZH\\Desktop\\shit\\Library_software-main\\LibControlApp\\ć.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GF2AKZH\\Desktop\\shit\\Library_software-main\\LibControlApp\\LibControlApp.csproj",
-        "projectName": "LibControlApp",
-        "projectPath": "C:\\Users\\GF2AKZH\\Desktop\\shit\\Library_software-main\\LibControlApp\\LibControlApp.csproj",
+        "projectUniqueName": "C:\\Users\\GF2AKZH\\Desktop\\shit\\Library_software-main\\LibControlApp\\ć.csproj",
+        "projectName": "ć",
+        "projectPath": "C:\\Users\\GF2AKZH\\Desktop\\shit\\Library_software-main\\LibControlApp\\ć.csproj",
         "packagesPath": "C:\\Users\\GF2AKZH\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\GF2AKZH\\Desktop\\shit\\Library_software-main\\LibControlApp\\obj\\",
         "projectStyle": "PackageReference",
