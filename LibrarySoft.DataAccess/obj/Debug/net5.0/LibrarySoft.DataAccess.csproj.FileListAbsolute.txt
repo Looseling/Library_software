@@ -1,0 +1,15 @@
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\bin\Debug\net5.0\LibrarySoft.DataAccess.deps.json
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\bin\Debug\net5.0\LibrarySoft.DataAccess.runtimeconfig.json
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\bin\Debug\net5.0\LibrarySoft.DataAccess.runtimeconfig.dev.json
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\bin\Debug\net5.0\LibrarySoft.DataAccess.dll
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\bin\Debug\net5.0\ref\LibrarySoft.DataAccess.dll
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\bin\Debug\net5.0\LibrarySoft.DataAccess.pdb
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\obj\Debug\net5.0\LibrarySoft.DataAccess.csproj.AssemblyReference.cache
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\obj\Debug\net5.0\LibrarySoft.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\obj\Debug\net5.0\LibrarySoft.DataAccess.AssemblyInfoInputs.cache
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\obj\Debug\net5.0\LibrarySoft.DataAccess.AssemblyInfo.cs
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\obj\Debug\net5.0\LibrarySoft.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\obj\Debug\net5.0\LibrarySoft.DataAccess.dll
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\obj\Debug\net5.0\ref\LibrarySoft.DataAccess.dll
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\obj\Debug\net5.0\LibrarySoft.DataAccess.pdb
+C:\Users\GF2AKZH\source\repos\LibrarySoft\LibrarySoft.DataAccess\obj\Debug\net5.0\LibrarySoft.DataAccess.genruntimeconfig.cache
